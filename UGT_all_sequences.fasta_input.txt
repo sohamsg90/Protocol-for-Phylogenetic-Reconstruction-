@@ -1,0 +1,335 @@
+>gi|62857204|dbj|BAD95881.1| glucosyltransferase [Ipomoea nil]	seq1
+>gi|165972256|dbj|BAF99027.1| UDP-glucose:sesaminol 2'-O-glucoside-O-glucosyltransferase [Sesamum indicum]	seq2
+>gi|242345159|dbj|BAH80312.1| UDP-glucose:flavonoid glucoside 1,6-glucosyltransferase [Catharanthus roseus]	seq3
+>gi|548923636|dbj|BAN91400.1| flavonol 3-O-glucoside (1->6) rhamnosyltransferase [Glycine max]	seq4
+>gi|334878543|gb|AAL06646.2| flavonoid 1-2 rhamnosyltransferase [Citrus maxima]	seq5
+>gi|75285934|sp|Q5NTH0.1|UGAT_BELPE RecName: Full=Cyanidin-3-O-glucoside 2-O-glucuronosyltransferase; Short=BpUGAT; AltName: Full=UDP-glucuronic acid:anthocyanin glucuronosyltransferase	seq6
+>gi|3716437|emb|CAA03660.1| unnamed protein product [Brassica napus]	seq7
+>gi|454245|emb|CAA50376.1| anthocyanin 3 glucoside: rhamnosyltransferase [Petunia x hybrida]	seq8
+>gi|75265643|gb|ABA18631.1| 1,6-rhamnosyltransferase [Citrus sinensis]	seq9
+>gi|1620013|dbj|BAA12737.1| UDP-glucose:flavonoid-3-glucosyltransferase [Gentiana triflora]	seq10
+>gi|1685005|gb|AAB36653.1| immediate-early salicylate-induced glucosyltransferase [Nicotiana tabacum]	seq11
+>gi|1685003|gb|AAB36652.1| immediate-early salicylate-induced glucosyltransferase [Nicotiana tabacum]	seq12
+>gi|15239543|ref|NP_200217.1| anthocyanidin 3-O-glucoside 2'''-O-xylosyltransferase [Arabidopsis thaliana]	seq13
+>gi|229487331|emb|CAQ77160.1| C-glucosyltransferase [Oryza sativa Japonica Group]	seq14
+>gi|82802847|gb|AAB48444.2| UDP-galactose:solanidine galactosyltransferase [Solanum tuberosum]	seq15
+>gi|332643030|gb|AEE76551.1| UDP-glucosyl transferase 71B6 [Arabidopsis thaliana]	seq16
+>2ACV:A|PDBID|CHAIN|SEQUENCE	seq17
+>2ACV:B|PDBID|CHAIN|SEQUENCE	seq18
+>gi|57790330|gb|AAW56091.1| triterpene UDP-glucosyl transferase UGT73K1 [Medicago truncatula]	seq19
+>gi|115334821|gb|ABI94026.1| (iso)flavonoid glycosyltransferase [Medicago truncatula]	seq20
+>gi|332003551|gb|AED90934.1| UDP-glucosyl transferase 76C1 [Arabidopsis thaliana]	seq21
+>gi|297806599|ref|XP_002871183.1| UDP-glucosyl transferase 76C2 [Arabidopsis lyrata subsp. lyrata]	seq22
+>UGT76G1	seq23
+>UGT85H2	seq24
+>gi|222350743|dbj|BAH19313.1| flavonoid 7-O-glucuronosyltransferase [Scutellaria baicalensis]	seq25
+>gi|187761613|dbj|BAG31945.1| UGT88D4 [Antirrhinum majus]	seq26
+>gi|187761615|dbj|BAG31946.1| UGT88D5 [Scutellaria laeteviolacea var. yakusimensis]	seq27
+>gi|187761617|dbj|BAG31947.1| UGT88D6 [Sesamum indicum]	seq28
+>gi|187761619|dbj|BAG31948.1| UGT88D7 [Perilla frutescens]	seq29
+>gi|75264073|sp|Q9LNE6.1|U89C1_ARATH RecName: Full=UDP-glycosyltransferase 89C1; AltName: Full=Flavonol 7-O-rhamnosyltransferase; AltName: Full=UDP-rhamnose: flavonol 7-O-rhamnosyltransferase	seq30
+>gi|548195|gb|AAA59054.1| IAA-glu synthetase [Zea mays]	seq31
+>Medtr1g019510.1 | UDP-glucosyltransferase family protein | HC | chr1:5901617-5903233 | 20130731	seq32
+>Medtr1g019520.1 | UDP-glucosyltransferase family protein | HC | chr1:5905885-5906544 | 20130731	seq33
+>Medtr1g021855.1 | CAZy family GT8 glycosyltransferase | HC | chr1:6636284-6634648 | 20130731	seq34
+>Medtr1g029540.1 | zeatin O-glucosyltransferase-like protein | HC | chr1:10161428-10162813 | 20130731	seq35
+>Medtr1g032490.1 | limonoid UDP-glucosyltransferase-like protein | HC | chr1:11547830-11546394 | 20130731	seq36
+>Medtr1g040310.1 | UDP-glucosyltransferase family protein | HC | chr1:14868892-14870403 | 20130731	seq37
+>Medtr1g062380.1 | UDP-glucosyltransferase family protein | HC | chr1:27225322-27223820 | 20130731	seq38
+>Medtr1g090270.1 | UDP-glucosyltransferase family protein | HC | chr1:40440220-40441617 | 20130731	seq39
+>Medtr1g090280.1 | UDP-glucosyltransferase family protein | LC | chr1:40443027-40444042 | 20130731	seq40
+>Medtr1g090540.2 | group 1 family glycosyltransferase | HC | chr1:40546861-40549585 | 20130731	seq41
+>Medtr1g090540.1 | group 1 family glycosyltransferase | HC | chr1:40546858-40548808 | 20130731	seq42
+>Medtr1g098640.2 | UDP-glucose:sterol glucosyltransferase | HC | chr1:44416378-44424741 | 20130731	seq43
+>Medtr1g098640.3 | UDP-glucose:sterol glucosyltransferase | HC | chr1:44416421-44424717 | 20130731	seq44
+>Medtr1g098640.6 | UDP-glucose:sterol glucosyltransferase | HC | chr1:44416381-44424741 | 20130731	seq45
+>Medtr1g098640.1 | UDP-glucose:sterol glucosyltransferase | HC | chr1:44416408-44424741 | 20130731	seq46
+>Medtr1g107285.1 | limonoid UDP-glucosyltransferase-like protein | LC | chr1:48585998-48584032 | 20130731	seq47
+>Medtr1g107315.1 | limonoid UDP-glucosyltransferase-like protein | HC | chr1:48617611-48619527 | 20130731	seq48
+>Medtr1g107325.1 | UDP-glucosyltransferase family protein | HC | chr1:48629431-48628079 | 20130731	seq49
+>Medtr1g107350.1 | limonoid UDP-glucosyltransferase-like protein | HC | chr1:48653852-48651790 | 20130731	seq50
+>Medtr1g107360.1 | limonoid UDP-glucosyltransferase-like protein | HC | chr1:48657187-48655601 | 20130731	seq51
+>Medtr1g107365.1 | limonoid UDP-glucosyltransferase-like protein | HC | chr1:48662279-48660566 | 20130731	seq52
+>Medtr1g107375.1 | limonoid UDP-glucosyltransferase-like protein | HC | chr1:48667811-48666115 | 20130731	seq53
+>Medtr1g107380.1 | UDP-glucosyltransferase family protein | HC | chr1:48671587-48669821 | 20130731	seq54
+>Medtr2g008210.1 | UDP-glucosyltransferase family protein | HC | chr2:1349464-1351453 | 20130731	seq55
+>Medtr2g008225.1 | UDP-glucosyltransferase family protein | HC | chr2:1353997-1355790 | 20130731	seq56
+>Medtr2g008226.1 | UDP-glucosyltransferase family protein | HC | chr2:1356907-1358554 | 20130731	seq57
+>Medtr2g008220.1 | UDP-glucosyltransferase family protein | HC | chr2:1361040-1362458 | 20130731	seq58
+>Medtr2g014900.1 | UDP-glucosyltransferase family protein | HC | chr2:4339588-4341187 | 20130731	seq59
+>Medtr2g034990.1 | UDP-glucosyltransferase family protein | LC | chr2:13441377-13439861 | 20130731	seq60
+>Medtr2g035020.1 | UDP-glucosyltransferase family protein | LC | chr2:13449642-13447310 | 20130731	seq61
+>Medtr2g035040.1 | UDP-glucosyltransferase family protein | LC | chr2:13455977-13454536 | 20130731	seq62
+>Medtr2g040530.1 | UDP-glucosyltransferase family protein | HC | chr2:17783230-17781499 | 20130731	seq63
+>Medtr2g043740.1 | sterol glucosyltransferase-like protein | HC | chr2:19015474-19024659 | 20130731	seq64
+>Medtr2g046620.1 | UDP-glucosyltransferase family protein | HC | chr2:20491783-20493375 | 20130731	seq65
+>Medtr2g046750.1 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr2:20564205-20562802 | 20130731	seq66
+>Medtr2g046820.1 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr2:20583402-20581965 | 20130731	seq67
+>Medtr2g059240.1 | UDP-glucosyltransferase family protein | HC | chr2:24463404-24461975 | 20130731	seq68
+>Medtr2g083360.1 | UDP-glycosyltransferase superfamily protein | HC | chr2:34999240-34997708 | 20130731	seq69
+>Medtr2g083380.1 | UDP-glucosyltransferase family protein | HC | chr2:35008828-35010454 | 20130731	seq70
+>Medtr2g083390.1 | UDP-glucosyltransferase family protein | HC | chr2:35012549-35011080 | 20130731	seq71
+>Medtr2g083420.1 | UDP-glucosyltransferase family protein | HC | chr2:35019748-35018019 | 20130731	seq72
+>Medtr2g083430.1 | UDP-glucosyltransferase family protein | HC | chr2:35025740-35027758 | 20130731	seq73
+>Medtr2g083480.1 | UDP-glucosyltransferase family protein | HC | chr2:35033082-35034756 | 20130731	seq74
+>Medtr2g083490.1 | UDP-glucosyltransferase family protein | HC | chr2:35037749-35035423 | 20130731	seq75
+>Medtr2g086283.1 | UDP-glucose:flavonoid 3-O-glucosyltransferase, putative | HC | chr2:36288398-36289820 | 20130731	seq76
+>Medtr2g098430.1 | UDP-glucosyltransferase family protein | HC | chr2:42085650-42087586 | 20130731	seq77
+>Medtr3g008010.1 | UDP-glucosyltransferase family protein | HC | chr3:1283041-1280979 | 20130731	seq78
+>Medtr3g009490.1 | UDP-glucosyltransferase family protein | HC | chr3:2068286-2067421 | 20130731	seq79
+>Medtr3g009510.1 | UDP-glucosyltransferase family protein | HC | chr3:2074308-2071632 | 20130731	seq80
+>Medtr3g435310.1 | UDP-glucosyltransferase family protein | HC | chr3:11529658-11532428 | 20130731	seq81
+>Medtr3g049970.1 | limonoid UDP-glucosyltransferase-like protein | HC | chr3:19665039-19666628 | 20130731	seq82
+>Medtr3g055690.1 | beta-(1,2)-xylosyltransferase | HC | chr3:21918888-21925289 | 20130731	seq83
+>Medtr3g031450.1 | UDP-glucosyltransferase family protein | LC | chr3:26761807-26765991 | 20130731	seq84
+>Medtr3g031400.1 | UDP-glucosyltransferase family protein | LC | chr3:26782978-26786034 | 20130731	seq85
+>Medtr3g069690.1 | UDP-glucosyltransferase family protein | HC | chr3:31204402-31201355 | 20130731	seq86
+>Medtr3g069710.1 | UDP-glucosyltransferase family protein | HC | chr3:31207004-31210716 | 20130731	seq87
+>Medtr3g479470.1 | UDP-glucosyltransferase family protein | HC | chr3:35738230-35735161 | 20130731	seq88
+>Medtr3g479490.1 | UDP-glucosyltransferase family protein | HC | chr3:35760043-35753836 | 20130731	seq89
+>Medtr3g479520.1 | UDP-glucosyltransferase family protein | HC | chr3:35776571-35774320 | 20130731	seq90
+>Medtr3g479610.1 | UDP-glucosyltransferase family protein | HC | chr3:35849057-35848101 | 20130731	seq91
+>Medtr3g079480.1 | UDP-glucosyltransferase family protein | HC | chr3:35869493-35865442 | 20130731	seq92
+>Medtr3g084520.1 | flavonoid glucosyltransferase | HC | chr3:38171075-38169004 | 20130731	seq93
+>Medtr3g084530.1 | flavonoid glucosyltransferase | HC | chr3:38180734-38179316 | 20130731	seq94
+>Medtr3g084540.1 | flavonoid glucosyltransferase | HC | chr3:38185403-38183964 | 20130731	seq95
+>Medtr3g111600.1 | CAZy family GT8 glycosyltransferase | HC | chr3:52164765-52163809 | 20130731	seq96
+>Medtr4g008630.1 | zeatin O-glucosyltransferase-like protein | HC | chr4:1608417-1609811 | 20130731	seq97
+>Medtr4g022580.1 | UDP-glucose:sterol 3-O-glucosyltransferase | HC | chr4:7553170-7542354 | 20130731	seq98
+>Medtr4g022610.2 | UDP-glucose:sterol 3-O-glucosyltransferase | HC | chr4:7577186-7560075 | 20130731	seq99
+>Medtr4g022610.1 | UDP-glucose:sterol 3-O-glucosyltransferase | HC | chr4:7577187-7559490 | 20130731	seq100
+>Medtr4g024020.1 | UDP-glucosyltransferase family protein | HC | chr4:8137664-8136168 | 20130731	seq101
+>Medtr4g031800.1 | flavonoid glucosyltransferase | HC | chr4:11022931-11024756 | 20130731	seq102
+>Medtr4g057500.1 | glycosyltransferase family 47 protein | HC | chr4:21055428-21057903 | 20130731	seq103
+>Medtr4g059370.1 | UDP-glucosyltransferase family protein | HC | chr4:21874854-21876576 | 20130731	seq104
+>Medtr4g064987.2 | UDP-glucosyltransferase family protein | HC | chr4:24311877-24314356 | 20130731	seq105
+>Medtr4g064987.1 | UDP-glucosyltransferase family protein | HC | chr4:24311869-24314356 | 20130731	seq106
+>Medtr4g077960.1 | UDP-glucosyltransferase family protein | HC | chr4:29953681-29955102 | 20130731	seq107
+>Medtr4g079250.1 | UDP-glucosyltransferase family protein | HC | chr4:30595523-30593783 | 20130731	seq108
+>Medtr4g079270.1 | UDP-glucosyltransferase family protein | HC | chr4:30612693-30611305 | 20130731	seq109
+>Medtr4g082810.1 | UDP-glucosyltransferase family protein | HC | chr4:32178097-32176040 | 20130731	seq110
+>Medtr4g082820.1 | UDP-glucosyltransferase family protein | HC | chr4:32185176-32183451 | 20130731	seq111
+>Medtr4g485590.1 | flavonoid glucosyltransferase | HC | chr4:33382016-33383456 | 20130731	seq112
+>Medtr4g485620.1 | flavonoid glucosyltransferase | HC | chr4:33391983-33390499 | 20130731	seq113
+>Medtr4g485630.1 | flavonoid glucosyltransferase | HC | chr4:33397954-33395962 | 20130731	seq114
+>Medtr4g485640.1 | UDP-glucosyltransferase 73B2 | HC | chr4:33406879-33401462 | 20130731	seq115
+>Medtr4g094220.1 | UDP-glucosyltransferase family protein | HC | chr4:37403712-37398764 | 20130731	seq116
+>Medtr4g094920.1 | UDP-glucosyltransferase family protein | HC | chr4:39288775-39287267 | 20130731	seq117
+>Medtr4g095008.1 | UDP-glucosyltransferase family protein | HC | chr4:39490305-39492030 | 20130731	seq118
+>Medtr4g108250.1 | UDP-glucosyltransferase family protein | HC | chr4:44902774-44904802 | 20130731	seq119
+>Medtr4g117890.1 | UDP-glucosyltransferase family protein | HC | chr4:48911175-48912998 | 20130731	seq120
+>Medtr4g117950.1 | UDP-glucosyltransferase family protein | HC | chr4:48952363-48950939 | 20130731	seq121
+>Medtr4g117960.1 | UDP-glucosyltransferase family protein | LC | chr4:48959432-48957547 | 20130731	seq122
+>Medtr4g117970.1 | UDP-glucosyltransferase, putative | LC | chr4:48963460-48961083 | 20130731	seq123
+>Medtr4g117980.1 | UDP-glucosyltransferase family protein | LC | chr4:48966686-48964532 | 20130731	seq124
+>Medtr4g118000.1 | UDP-glucosyltransferase family protein | HC | chr4:48975250-48973662 | 20130731	seq125
+>Medtr4g123553.1 | UDP-glucosyltransferase family protein | HC | chr4:51370818-51368549 | 20130731	seq126
+>Medtr4g128690.1 | flavonoid glucosyltransferase | HC | chr4:53568291-53564535 | 20130731	seq127
+>Medtr4g128720.1 | flavonoid glucosyltransferase | HC | chr4:53581481-53579463 | 20130731	seq128
+>Medtr5g004940.1 | limonoid UDP-glucosyltransferase-like protein | HC | chr5:193930-195419 | 20130731	seq129
+>Medtr5g016480.1 | UDP-glucosyltransferase family protein | HC | chr5:5907105-5905666 | 20130731	seq130
+>Medtr5g016660.1 | UDP-glucosyltransferase family protein | HC | chr5:5996165-5994213 | 20130731	seq131
+>Medtr5g019580.2 | UDP-glucosyltransferase family protein | HC | chr5:7404213-7406208 | 20130731	seq132
+>Medtr5g019580.1 | UDP-glucosyltransferase family protein | HC | chr5:7404422-7405921 | 20130731	seq133
+>Medtr5g027210.1 | UDP-glucosyltransferase family protein | HC | chr5:11293513-11292053 | 20130731	seq134
+>Medtr5g029800.1 | UDP-glucosyltransferase family protein | LC | chr5:12541850-12540387 | 20130731	seq135
+>Medtr5g031480.2 | glycosyltransferase family protein | HC | chr5:13505206-13511890 | 20130731	seq136
+>Medtr5g031480.1 | glycosyltransferase family protein | HC | chr5:13505206-13511894 | 20130731	seq137
+>Medtr5g031480.3 | glycosyltransferase family protein | HC | chr5:13505206-13510249 | 20130731	seq138
+>Medtr5g031830.1 | UDP-glucosyltransferase family protein | LC | chr5:13646298-13648693 | 20130731	seq139
+>Medtr5g031840.1 | UDP-glucosyltransferase family protein | LC | chr5:13651420-13653564 | 20130731	seq140
+>Medtr5g031860.1 | UDP-glucosyltransferase family protein | LC | chr5:13656647-13659037 | 20130731	seq141
+>Medtr5g035560.1 | UDP-glucosyltransferase family protein | HC | chr5:15467679-15464761 | 20130731	seq142
+>Medtr5g035580.1 | UDP-glucosyltransferase family protein | HC | chr5:15475282-15473398 | 20130731	seq143
+>Medtr5g036580.1 | CAZy family GT8 glycosyltransferase | HC | chr5:15965250-15964063 | 20130731	seq144
+>Medtr5g039900.1 | UDP-glucosyltransferase family protein | HC | chr5:17573994-17572129 | 20130731	seq145
+>Medtr5g040030.1 | UDP-glucosyltransferase family protein | LC | chr5:17618675-17620625 | 20130731	seq146
+>Medtr5g045960.1 | UDP-glucosyltransferase family protein | HC | chr5:20154083-20155774 | 20130731	seq147
+>Medtr5g045970.1 | UDP-glucosyltransferase family protein | HC | chr5:20158003-20156501 | 20130731	seq148
+>Medtr5g058320.1 | UDP-glucosyltransferase family protein | HC | chr5:24104673-24102996 | 20130731	seq149
+>Medtr5g064240.1 | UDP-glucosyltransferase family protein | HC | chr5:26676753-26671728 | 20130731	seq150
+>Medtr5g464760.1 | UDP-glucosyltransferase family protein | HC | chr5:26903796-26900971 | 20130731	seq151
+>Medtr5g464810.1 | UDP-glucosyltransferase family protein | HC | chr5:26948299-26943332 | 20130731	seq152
+>Medtr5g066390.1 | UDP-glucosyltransferase family protein | HC | chr5:27997814-28000234 | 20130731	seq153
+>Medtr5g066410.1 | UDP-glucosyltransferase family protein | HC | chr5:28002267-28000871 | 20130731	seq154
+>Medtr5g067170.1 | UDP-glucosyltransferase family protein | LC | chr5:28386585-28384037 | 20130731	seq155
+>Medtr5g070040.1 | UDP-glucosyltransferase family protein | HC | chr5:29678218-29679659 | 20130731	seq156
+>Medtr5g070090.1 | UDP-glucosyltransferase family protein | HC | chr5:29700515-29702410 | 20130731	seq157
+>Medtr5g072810.1 | UDP-glucosyltransferase family protein | HC | chr5:30987372-30989859 | 20130731	seq158
+>Medtr5g072820.1 | UDP-glucosyltransferase family protein | HC | chr5:30989979-30993244 | 20130731	seq159
+>Medtr5g072830.1 | UDP-glucosyltransferase family protein | HC | chr5:30995223-31000602 | 20130731	seq160
+>Medtr5g072840.1 | UDP-glucosyltransferase family protein | HC | chr5:31001473-31003345 | 20130731	seq161
+>Medtr5g072850.1 | UDP-glucosyltransferase family protein | HC | chr5:31004376-31006581 | 20130731	seq162
+>Medtr5g072860.1 | UDP-glucosyltransferase family protein | HC | chr5:31009286-31011082 | 20130731	seq163
+>Medtr5g075440.1 | UDP-glucosyltransferase family protein | HC | chr5:32077328-32074632 | 20130731	seq164
+>Medtr5g082110.2 | glycosyltransferase family protein | HC | chr5:35251109-35255873 | 20130731	seq165
+>Medtr5g082110.1 | glycosyltransferase family protein | HC | chr5:35251107-35255875 | 20130731	seq166
+>Medtr5g087620.1 | UDP-glucosyltransferase family protein | HC | chr5:37988152-37990051 | 20130731	seq167
+>Medtr5g090580.1 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr5:39450813-39452576 | 20130731	seq168
+>Medtr5g090600.1 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr5:39454592-39456023 | 20130731	seq169
+>Medtr5g090600.2 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr5:39454592-39456023 | 20130731	seq170
+>Medtr5g090610.1 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr5:39458510-39457073 | 20130731	seq171
+>Medtr5g090620.1 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr5:39460044-39461799 | 20130731	seq172
+>Medtr5g090630.1 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr5:39464963-39462805 | 20130731	seq173
+>Medtr5g090650.1 | anthocyanidin 3-O-glucosyltransferase | LC | chr5:39470973-39469664 | 20130731	seq174
+>Medtr5g090660.1 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr5:39471989-39474539 | 20130731	seq175
+>Medtr5g090670.1 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr5:39475353-39477382 | 20130731	seq176
+>Medtr5g090690.1 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr5:39482600-39484800 | 20130731	seq177
+>Medtr5g090700.1 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr5:39486343-39487860 | 20130731	seq178
+>Medtr5g098930.1 | UDP-glucose flavonoid 3-O-glucosyltransferase | HC | chr5:43312848-43310986 | 20130731	seq179
+>Medtr5g098960.1 | UDP-glucosyltransferase family protein | HC | chr5:43327556-43324497 | 20130731	seq180
+>Medtr6g005600.1 | UDP-glucosyltransferase family protein | HC | chr6:846127-844697 | 20130731	seq181
+>Medtr6g011340.1 | UDP-glucosyltransferase family protein | HC | chr6:3173586-3171614 | 20130731	seq182
+>Medtr6g013440.1 | UDP-glucosyltransferase family protein | HC | chr6:4258723-4260289 | 20130731	seq183
+>Medtr6g013450.1 | UDP-glucosyltransferase family protein | HC | chr6:4265607-4267301 | 20130731	seq184
+>Medtr6g013680.1 | UDP-glucosyltransferase family protein | HC | chr6:4298147-4299875 | 20130731	seq185
+>Medtr6g013890.1 | UDP-glucosyltransferase family protein, putative | HC | chr6:4458593-4457657 | 20130731	seq186
+>Medtr6g013900.1 | UDP-glucosyltransferase family protein | HC | chr6:4462785-4461120 | 20130731	seq187
+>Medtr6g013920.1 | UDP-glucosyltransferase family protein | HC | chr6:4471492-4469794 | 20130731	seq188
+>Medtr6g013960.1 | UDP-glucosyltransferase family protein | HC | chr6:4482443-4480690 | 20130731	seq189
+>Medtr6g013990.1 | UDP-glucosyltransferase family protein | HC | chr6:4488735-4490689 | 20130731	seq190
+>Medtr6g014000.1 | UDP-glucosyltransferase family protein | LC | chr6:4494066-4491721 | 20130731	seq191
+>Medtr6g014020.1 | UDP-glucosyltransferase family protein | HC | chr6:4507516-4505719 | 20130731	seq192
+>Medtr6g014040.1 | UDP-glucosyltransferase family protein | HC | chr6:4513529-4515256 | 20130731	seq193
+>Medtr6g014050.1 | UDP-glucosyltransferase family protein | HC | chr6:4517956-4516240 | 20130731	seq194
+>Medtr6g014150.1 | UDP-glucosyltransferase family protein | HC | chr6:4558717-4557116 | 20130731	seq195
+>Medtr6g014160.1 | UDP-glucosyltransferase family protein | HC | chr6:4562244-4560497 | 20130731	seq196
+>Medtr6g014170.1 | UDP-glucosyltransferase family protein | HC | chr6:4565634-4563505 | 20130731	seq197
+>Medtr6g014185.1 | UDP-glucosyltransferase family protein | HC | chr6:4569648-4567996 | 20130731	seq198
+>Medtr6g014187.1 | UDP-glucosyltransferase family protein | HC | chr6:4576047-4574299 | 20130731	seq199
+>Medtr6g014190.1 | UDP-glucosyltransferase family protein | HC | chr6:4580454-4579344 | 20130731	seq200
+>Medtr6g014200.1 | UDP-glucosyltransferase family protein | HC | chr6:4587208-4585639 | 20130731	seq201
+>Medtr6g014220.1 | UDP-glucosyltransferase family protein | HC | chr6:4594619-4592234 | 20130731	seq202
+>Medtr6g014240.1 | UDP-glucosyltransferase family protein | HC | chr6:4599732-4598162 | 20130731	seq203
+>Medtr6g014250.1 | UDP-glucosyltransferase family protein | HC | chr6:4603688-4601786 | 20130731	seq204
+>Medtr6g014270.1 | UDP-glucosyltransferase family protein | HC | chr6:4612141-4614107 | 20130731	seq205
+>Medtr6g014290.1 | UDP-glucosyltransferase family protein | HC | chr6:4618923-4616984 | 20130731	seq206
+>Medtr6g014300.1 | UDP-glucosyltransferase family protein | HC | chr6:4623891-4622139 | 20130731	seq207
+>Medtr6g014310.1 | UDP-glucosyltransferase family protein | HC | chr6:4627731-4625948 | 20130731	seq208
+>Medtr6g015160.1 | UDP-glycosyltransferase superfamily protein | LC | chr6:4908945-4908497 | 20130731	seq209
+>Medtr6g023665.1 | UDP-glucosyltransferase family protein | HC | chr6:8295805-8293989 | 20130731	seq210
+>Medtr6g033615.1 | UDP-glucosyltransferase family protein | HC | chr6:10967520-10968902 | 20130731	seq211
+>Medtr6g033625.1 | UDP-glucosyltransferase family protein | HC | chr6:10981428-10982831 | 20130731	seq212
+>Medtr6g035185.1 | UDP-glucosyltransferase family protein | LC | chr6:12482402-12484241 | 20130731	seq213
+>Medtr6g035265.1 | UDP-glucosyltransferase family protein | LC | chr6:12589135-12590818 | 20130731	seq214
+>Medtr6g035295.1 | UDP-glucosyltransferase family protein | LC | chr6:12610912-12614262 | 20130731	seq215
+>Medtr6g036650.1 | UDP-glucosyltransferase family protein | HC | chr6:12845591-12847080 | 20130731	seq216
+>Medtr6g038200.1 | UDP-glucosyltransferase family protein | HC | chr6:13673616-13669835 | 20130731	seq217
+>Medtr6g038220.1 | UDP-glucosyltransferase family protein | HC | chr6:13686089-13689024 | 20130731	seq218
+>Medtr6g038230.1 | UDP-glucosyltransferase family protein | HC | chr6:13692779-13694798 | 20130731	seq219
+>Medtr6g038240.1 | UDP-glucosyltransferase family protein | LC | chr6:13697488-13695306 | 20130731	seq220
+>Medtr6g038300.1 | UDP-glucosyltransferase family protein | LC | chr6:13726521-13724601 | 20130731	seq221
+>Medtr6g042310.1 | UDP-glucosyltransferase family protein | HC | chr6:14587997-14589894 | 20130731	seq222
+>Medtr6g078320.1 | UDP-glucosyltransferase family protein | HC | chr6:29398739-29402655 | 20130731	seq223
+>Medtr6g488280.1 | UDP-glucosyltransferase family protein | HC | chr6:33255928-33257681 | 20130731	seq224
+>Medtr7g011470.2 | UDP-glucosyltransferase family protein | HC | chr7:3088323-3086417 | 20130731	seq225
+>Medtr7g011470.1 | UDP-glucosyltransferase family protein | HC | chr7:3088323-3086417 | 20130731	seq226
+>Medtr7g012120.1 | UDP-glucosyltransferase family protein | LC | chr7:3416482-3418252 | 20130731	seq227
+>Medtr7g013180.2 | UDP-glucosyltransferase family protein | HC | chr7:3759075-3753439 | 20130731	seq228
+>Medtr7g013180.1 | UDP-glucosyltransferase family protein | HC | chr7:3759075-3755039 | 20130731	seq229
+>Medtr7g013200.1 | UDP-glucosyltransferase family protein | HC | chr7:3771099-3767443 | 20130731	seq230
+>Medtr7g013220.1 | UDP-glucosyltransferase family protein | HC | chr7:3783648-3779704 | 20130731	seq231
+>Medtr7g013240.1 | UDP-glucosyltransferase family protein | HC | chr7:3791360-3788881 | 20130731	seq232
+>Medtr7g013260.1 | UDP-glucosyltransferase family protein | HC | chr7:3798077-3801318 | 20130731	seq233
+>Medtr7g039550.1 | UDP-glucosyltransferase family protein | LC | chr7:14711094-14709561 | 20130731	seq234
+>Medtr7g046490.1 | UDP-glucosyltransferase family protein | HC | chr7:16489659-16491623 | 20130731	seq235
+>Medtr7g047030.1 | UDP-glucosyltransferase family protein | HC | chr7:16565640-16567075 | 20130731	seq236
+>Medtr7g047270.1 | UDP-glucosyltransferase family protein | HC | chr7:16600005-16598587 | 20130731	seq237
+>Medtr7g055710.1 | UDP-glucosyltransferase family protein | HC | chr7:19104244-19102312 | 20130731	seq238
+>Medtr7g067120.1 | UDP-glucosyltransferase family protein | HC | chr7:24531233-24529683 | 20130731	seq239
+>Medtr7g067330.1 | UDP-glucosyltransferase family protein | LC | chr7:24542704-24544242 | 20130731	seq240
+>Medtr7g470610.1 | UDP-glucosyltransferase family protein | HC | chr7:26087768-26088704 | 20130731	seq241
+>Medtr7g070583.1 | UDP-glucosyltransferase family protein | HC | chr7:26111556-26112492 | 20130731	seq242
+>Medtr7g070610.1 | UDP-glucosyltransferase family protein | HC | chr7:26128173-26129675 | 20130731	seq243
+>Medtr7g070660.1 | UDP-glucosyltransferase family protein | HC | chr7:26154623-26157434 | 20130731	seq244
+>Medtr7g070740.1 | UDP-glucosyltransferase family protein | HC | chr7:26178520-26180679 | 20130731	seq245
+>Medtr7g070760.1 | UDP-glucosyltransferase family protein | HC | chr7:26186409-26187119 | 20130731	seq246
+>Medtr7g070780.1 | UDP-glucosyltransferase family protein | HC | chr7:26190773-26192643 | 20130731	seq247
+>Medtr7g070800.1 | UDP-glucosyltransferase family protein | HC | chr7:26203521-26205009 | 20130731	seq248
+>Medtr7g070810.1 | UDP-glucosyltransferase family protein | HC | chr7:26207053-26208516 | 20130731	seq249
+>Medtr7g070860.1 | UDP-glucosyltransferase family protein | HC | chr7:26223156-26224633 | 20130731	seq250
+>Medtr7g070870.1 | UDP-glucosyltransferase family protein | HC | chr7:26226485-26228070 | 20130731	seq251
+>Medtr7g070910.1 | UDP-glucosyltransferase family protein | HC | chr7:26241970-26243702 | 20130731	seq252
+>Medtr7g070930.1 | UDP-glucosyltransferase family protein | HC | chr7:26250403-26252249 | 20130731	seq253
+>Medtr7g070940.1 | UDP-glucosyltransferase family protein | HC | chr7:26259279-26261446 | 20130731	seq254
+>Medtr7g070995.1 | UDP-glucosyltransferase family protein | HC | chr7:26278325-26278801 | 20130731	seq255
+>Medtr7g071040.1 | UDP-glucosyltransferase family protein | HC | chr7:26297039-26298593 | 20130731	seq256
+>Medtr7g071050.1 | UDP-glucosyltransferase family protein | HC | chr7:26301417-26302940 | 20130731	seq257
+>Medtr7g079430.1 | UDP-glucose:sterol glucosyltransferase | HC | chr7:30143743-30151632 | 20130731	seq258
+>Medtr7g080900.1 | UDP-glucosyltransferase family protein | LC | chr7:30818861-30816788 | 20130731	seq259
+>Medtr7g080935.1 | UDP-glucosyltransferase family protein | HC | chr7:30842004-30839941 | 20130731	seq260
+>Medtr7g080940.1 | UDP-glucosyltransferase family protein | HC | chr7:30848285-30844599 | 20130731	seq261
+>Medtr7g080950.1 | UDP-glucosyltransferase family protein | HC | chr7:30856592-30853026 | 20130731	seq262
+>Medtr7g080960.1 | UDP-glucosyltransferase family protein | LC | chr7:30860826-30858339 | 20130731	seq263
+>Medtr7g098650.2 | xyloglucan galactosyltransferase KATAMARI-like protein | HC | chr7:39486791-39484481 | 20130731	seq264
+>Medtr7g098650.1 | xyloglucan galactosyltransferase KATAMARI-like protein | HC | chr7:39486791-39484451 | 20130731	seq265
+>Medtr7g102450.1 | UDP-glucosyltransferase family protein | HC | chr7:41510348-41511848 | 20130731	seq266
+>Medtr7g102460.1 | UDP-glucosyltransferase family protein | HC | chr7:41516988-41518754 | 20130731	seq267
+>Medtr7g102490.1 | UDP-glucosyltransferase family protein | HC | chr7:41535868-41537833 | 20130731	seq268
+>Medtr7g102520.1 | UDP-glucosyltransferase family protein | HC | chr7:41544573-41546108 | 20130731	seq269
+>Medtr7g102550.1 | UDP-glucosyltransferase family protein | HC | chr7:41561455-41562991 | 20130731	seq270
+>Medtr7g102560.1 | UDP-glucosyltransferase family protein | HC | chr7:41563424-41564893 | 20130731	seq271
+>Medtr7g117170.1 | UDP-glucosyltransferase family protein | HC | chr7:48397275-48399104 | 20130731	seq272
+>Medtr7g117405.1 | UDP-glucosyltransferase family protein | HC | chr7:48531676-48533163 | 20130731	seq273
+>Medtr8g006220.1 | UDP-glucosyltransferase family protein | HC | chr8:549866-548406 | 20130731	seq274
+>Medtr8g006260.1 | UDP-glucosyltransferase family protein | HC | chr8:562423-560134 | 20130731	seq275
+>Medtr8g006270.1 | UDP-glucosyltransferase family protein | HC | chr8:564937-563257 | 20130731	seq276
+>Medtr8g006710.1 | UDP-glucosyltransferase family protein | HC | chr8:895594-893699 | 20130731	seq277
+>Medtr8g006730.1 | UDP-glucosyltransferase family protein | HC | chr8:904955-906528 | 20130731	seq278
+>Medtr8g007565.1 | UDP-glucosyltransferase family protein | HC | chr8:1652398-1653810 | 20130731	seq279
+>Medtr8g007585.1 | UDP-glucosyltransferase family protein | LC | chr8:1676099-1674223 | 20130731	seq280
+>Medtr8g007650.1 | UDP-glucosyltransferase family protein | HC | chr8:1740774-1742186 | 20130731	seq281
+>Medtr8g008970.1 | UDP-glucosyltransferase family protein | LC | chr8:1962469-1965554 | 20130731	seq282
+>Medtr8g008990.1 | UDP-glucosyltransferase family protein | HC | chr8:1967921-1969771 | 20130731	seq283
+>Medtr8g009050.1 | UDP-glucosyltransferase family protein | HC | chr8:2005566-2004154 | 20130731	seq284
+>Medtr8g009055.1 | UDP-glucosyltransferase family protein | HC | chr8:2008946-2007191 | 20130731	seq285
+>Medtr8g009063.1 | UDP-glucosyltransferase family protein | HC | chr8:2013369-2010885 | 20130731	seq286
+>Medtr8g009067.2 | UDP-glucosyltransferase family protein | HC | chr8:2016810-2013395 | 20130731	seq287
+>Medtr8g009067.1 | UDP-glucosyltransferase family protein | HC | chr8:2016006-2013469 | 20130731	seq288
+>Medtr8g009073.1 | UDP-glucosyltransferase family protein | HC | chr8:2019614-2016865 | 20130731	seq289
+>Medtr8g009073.2 | UDP-glucosyltransferase family protein | HC | chr8:2019462-2017652 | 20130731	seq290
+>Medtr8g012630.1 | UDP-glucosyltransferase family protein | HC | chr8:3700191-3701535 | 20130731	seq291
+>Medtr8g012635.1 | UDP-glucosyltransferase family protein | LC | chr8:3706872-3708302 | 20130731	seq292
+>Medtr8g012650.1 | UDP-glucosyltransferase family protein | LC | chr8:3718381-3719811 | 20130731	seq293
+>Medtr8g012730.1 | UDP-glucosyltransferase family protein | LC | chr8:3770900-3769814 | 20130731	seq294
+>Medtr8g012745.1 | UDP-glucosyltransferase family protein | LC | chr8:3779054-3777036 | 20130731	seq295
+>Medtr8g027870.1 | UDP-glucosyltransferase family protein | HC | chr8:10203121-10201536 | 20130731	seq296
+>Medtr8g027885.1 | UDP-glucosyltransferase family protein | HC | chr8:10210092-10208653 | 20130731	seq297
+>Medtr8g028755.1 | UDP-glucosyltransferase family protein, putative | HC | chr8:11079666-11080636 | 20130731	seq298
+>Medtr8g032950.1 | UDP-glucosyltransferase family protein | LC | chr8:12640424-12642063 | 20130731	seq299
+>Medtr8g043470.1 | UDP-glucosyltransferase family protein | HC | chr8:16684987-16686408 | 20130731	seq300
+>Medtr8g044140.1 | UDP-glucosyltransferase family protein | HC | chr8:16909862-16907760 | 20130731	seq301
+>Medtr8g056740.1 | UDP-glucosyltransferase family protein | HC | chr8:18988651-18990079 | 20130731	seq302
+>Medtr8g059425.1 | UDP-glucosyltransferase family protein | HC | chr8:20862231-20864143 | 20130731	seq303
+>Medtr8g465670.1 | UDP-glucosyltransferase family protein | HC | chr8:23422759-23424195 | 20130731	seq304
+>Medtr8g466240.1 | UDP-glucosyltransferase family protein | HC | chr8:23629250-23627460 | 20130731	seq305
+>Medtr8g064870.1 | limonoid UDP-glucosyltransferase-like protein | HC | chr8:27224614-27222767 | 20130731	seq306
+>Medtr8g064880.1 | limonoid UDP-glucosyltransferase-like protein | HC | chr8:27228783-27227185 | 20130731	seq307
+>Medtr8g066610.1 | flavonoid glucosyltransferase | HC | chr8:27689819-27688350 | 20130731	seq308
+>Medtr8g068330.1 | UDP-glucosyltransferase family protein | LC | chr8:28492599-28490811 | 20130731	seq309
+>Medtr8g068340.1 | UDP-glucosyltransferase family protein | HC | chr8:28495772-28494301 | 20130731	seq310
+>Medtr8g068360.1 | UDP-glucosyltransferase family protein | LC | chr8:28508326-28506706 | 20130731	seq311
+>Medtr8g071070.1 | UDP-glucosyltransferase family protein | HC | chr8:30147311-30149117 | 20130731	seq312
+>Medtr8g074550.1 | UDP-glucosyltransferase family protein | HC | chr8:31523885-31525426 | 20130731	seq313
+>Medtr8g077590.1 | UDP-glucosyltransferase family protein | LC | chr8:33006466-33004269 | 20130731	seq314
+>Medtr8g083290.1 | flavonoid glucosyltransferase | HC | chr8:35052955-35054786 | 20130731	seq315
+>Medtr8g083280.1 | flavonoid glucosyltransferase | HC | chr8:35059626-35061438 | 20130731	seq316
+>Medtr8g088560.1 | UDP-glucosyltransferase family protein | HC | chr8:36740651-36742844 | 20130731	seq317
+>Medtr8g090095.1 | zeatin O-glucosyltransferase-like protein | HC | chr8:37720824-37722269 | 20130731	seq318
+>Medtr0009s0240.1 | UDP-glucosyltransferase family protein | HC | scaffold0009:142214-140394 | 20130731	seq319
+>Medtr0036s0220.1 | UDP-glucosyltransferase family protein | HC | scaffold0036:88831-91757 | 20130731	seq320
+>Medtr0078s0010.1 | UDP-glucosyltransferase family protein | HC | scaffold0078:2001-3419 | 20130731	seq321
+>Medtr0078s0060.1 | UDP-glucosyltransferase family protein | HC | scaffold0078:21100-22920 | 20130731	seq322
+>Medtr0078s0190.1 | UDP-glucosyltransferase family protein | HC | scaffold0078:56368-58315 | 20130731	seq323
+>Medtr0184s0030.1 | UDP-glucosyltransferase family protein | HC | scaffold0184:12792-10821 | 20130731	seq324
+>Medtr0184s0040.1 | UDP-glucosyltransferase family protein | HC | scaffold0184:16476-14885 | 20130731	seq325
+>Medtr0288s0020.1 | UDP-glucosyltransferase family protein | HC | scaffold0288:2001-3854 | 20130731	seq326
+>Medtr0428s0010.1 | UDP-glucosyltransferase family protein | HC | scaffold0428:234-1799 | 20130731	seq327
+>Medtr0475s0030.1 | UDP-glucosyltransferase family protein | LC | scaffold0475:3448-3747 | 20130731	seq328
+>Medtr0477s0010.1 | UDP-glucosyltransferase family protein | HC | scaffold0477:3462-4821 | 20130731	seq329
+>Medtr0536s0010.1 | UDP-glucosyltransferase family protein | HC | scaffold0536:470-1930 | 20130731	seq330
+>Medtr0536s0020.1 | UDP-glucosyltransferase family protein | HC | scaffold0536:5459-7263 | 20130731	seq331
+>Medtr0536s0030.1 | UDP-glucosyltransferase family protein | LC | scaffold0536:9617-10970 | 20130731	seq332
+>Medtr0891s0010.1 | UDP-glucosyltransferase family protein | HC | scaffold0891:2884-3771 | 20130731	seq333
+>Medtr1996s0010.1 | UDP-glucosyltransferase family protein | HC | scaffold1996:1-814 | 20130731	seq334
+>Medtr2086s0010.1 | UDP-glucosyltransferase family protein | HC | scaffold2086:101-634 | 20130731	seq335
